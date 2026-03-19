@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 Descifrando la industria de los videojuegos: claves para lanzamientos exitosos
 
-=======
->>>>>>> 745950104e6eaaf64d448b5fcbbd467020152992
 Este proyecto busca detectar patrones que permitan anticipar si un videojuego tendrá éxito o no, con el fin de apoyar la planificación de futuras estrategias publicitarias. El estudio se realizó por regiones incluyendo América del Norte, Europa, Japón y otras zonas y abarcó distintas plataformas, como Wii, Xbox 360 y las diferentes versiones de PlayStation hasta la versión 6.
 
 Librerias usadas en este proyecto:
