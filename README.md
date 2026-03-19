@@ -1,4 +1,5 @@
-Descifrando la industria de los videojuegos: claves para lanzamientos exitosos
+Descifrando la industria de los videojuegos
+
 
 Este proyecto busca detectar patrones que permitan anticipar si un videojuego tendrá éxito o no, con el fin de apoyar la planificación de futuras estrategias publicitarias. El estudio se realizó por regiones incluyendo América del Norte, Europa, Japón y otras zonas y abarcó distintas plataformas, como Wii, Xbox 360 y las diferentes versiones de PlayStation hasta la versión 6.
 
@@ -9,7 +10,8 @@ Librerias usadas en este proyecto:
 - import numpy as np
 - from scipy import stats
 
-Se presenta el dataset usado para el analisis:
+Se presenta el dataset usado para el analisis[text](games.csv):
+
 Este conjunto de datos reúne información sobre diversos videojuegos lanzados entre 1980 y 2016. Incluye datos como el año de lanzamiento, la plataforma (por ejemplo, PS4, Xbox One o PC), las calificaciones de usuarios y críticos, así como las cifras de ventas en distintas regiones (América del Norte, Europa, Japón y otras zonas).
 
 En términos generales, los resultados muestran que:
