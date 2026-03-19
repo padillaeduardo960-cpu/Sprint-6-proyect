@@ -1,4 +1,6 @@
-Este proyecto busca detectar patrones que permitan anticipar si un videojuego tendrá éxito o no, con el fin de apoyar la planificación de futuras estrategias publicitarias. El estudio se realizó por regiones —incluyendo América del Norte, Europa, Japón y otras zonas— y abarcó distintas plataformas, como Wii, Xbox 360 y las diferentes versiones de PlayStation hasta la versión 6.
+Descifrando la industria de los videojuegos: claves para lanzamientos exitosos
+
+Este proyecto busca detectar patrones que permitan anticipar si un videojuego tendrá éxito o no, con el fin de apoyar la planificación de futuras estrategias publicitarias. El estudio se realizó por regiones incluyendo América del Norte, Europa, Japón y otras zonas y abarcó distintas plataformas, como Wii, Xbox 360 y las diferentes versiones de PlayStation hasta la versión 6.
 
 Librerias usadas en este proyecto:
 import pandas as pd
